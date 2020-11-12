@@ -11,7 +11,7 @@
     "@redwoodjs/internal": "^0.20.0",
     "@redwoodjs/web": "^0.20.0",
     "@testing-library/react": "^11.1.0",
-    "@types/react": "16.9.53",
+    "@types/react": "16.9.56",
     "msw": "^0.21.2"
   },
   "scripts": {
